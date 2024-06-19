@@ -1,0 +1,7 @@
+
+_
+java:S5786"Remove this 'public' modifier.(Û’îŸùÿÿÿÿJ$72612d5d-07e3-47c7-8837-3ec9f1bc9616
+”
+java:S6068$"XRemove this and every subsequent useless "eq(...)" invocation; pass the values directly.(Þ­³úJ$cc00b3ea-9ac0-4ea9-89c5-42b458abb007
+”
+java:S6068E"XRemove this and every subsequent useless "eq(...)" invocation; pass the values directly.(Ø¿·ØJ$e523d45d-bfd6-49d8-b83f-8cdab86e6e9a
